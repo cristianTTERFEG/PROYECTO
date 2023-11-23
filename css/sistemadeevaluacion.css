@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    background-color: #0d9679;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
